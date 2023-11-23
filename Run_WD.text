@@ -1,0 +1,7 @@
+compiling WD witout make(make - for all files in the same folder):
+
+1 gb -o  main.out src/watchdog.c test/watchdog_process.c src/MMIIMP.c  src/scheduler_SecVer.c src/heap.c src/uid.c src/vector_third.c src/pq_SecVer.c src/Task.c
+
+2 gb -o  main.out src/watchdog.c test/watchdog_test.c src/MMIIMP.c  src/scheduler_SecVer.c src/heap.c src/uid.c src/vector_third.c src/pq_SecVer.c src/Task.c
+
+

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "scheduler_secver.h": "c",
+        "watchdog.h": "c",
+        "utilis.h": "c",
+        "pq_secver.h": "c",
+        "heap.h": "c",
+        "task.h": "c",
+        "uid.h": "c",
+        "vector_third.h": "c",
+        "mmiimp.h": "c"
+    }
+}
